@@ -1,0 +1,3 @@
+astrotomic  (translatable) :- is the Menu Content: It makes sure the "Description" and "Specs" of a laptop can be read in different languages from your database.
+mcamara     (Localization) :- is the Front Door: It puts /en/ or /ar/ in the URL, detects the user's browser language, and redirects them to the right version of the site.    <=
+yajra       (data table)   :- is the "Smart Engine": It transforms a static, slow list of products into a high-speed, interactive table that allows you to search, sort, and filter through thousands of products instantly without refreshing the page.

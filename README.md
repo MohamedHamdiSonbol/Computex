@@ -1,0 +1,2 @@
+# Computex
+Computex is a full-stack, single-vendor e-commerce web application built with PHP/Laravel, MySQL, Vue.js, and Bootstrap. Designed with clean architectural patterns, it provides a complete shopping experience—including dynamic product catalog filtering, session/database shopping cart management, end-to-end order processing, multi-guard authentication, and a dedicated administrative dashboard for store operations.
